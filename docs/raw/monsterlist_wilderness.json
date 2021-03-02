@@ -1,22 +1,5 @@
 [
     {
-        "id":"Cyclop",
-        "name":"Cyclop",
-        "iconID":"monsters_cyclops:0",
-        "maxHP":25,
-        "monsterClass":"giant",
-        "attackDamage":{
-            "min":4,
-            "max":5
-        },
-        "spawnGroup":"fox2",
-        "droplistID":"canine",
-        "attackCost":5,
-        "attackChance":100,
-        "blockChance":40,
-        "unique":1
-    },
-    {
         "id":"wild_fox",
         "name":"Wild fox",
         "iconID":"monsters_dogs:3",
